@@ -1,4 +1,4 @@
-﻿            -- 導入 "js" 模組
+            -- 導入 "js" 模組
             local js = require "js"
             -- global 就是 javascript 的 window
             local global = js.global
